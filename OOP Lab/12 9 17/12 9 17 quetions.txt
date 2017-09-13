@@ -1,0 +1,18 @@
+12/09/17
+1)Sequence of constructor using static keyword.
+
+2)W.A.P to declare class with 2 datamember also declare and define member 
+funtion to display the contents of class data member .create obj a and 
+display the content of object a. Again initialize object a using explicit 
+call to the constructor this time pass appropriate value to the constructor
+then display obj a using member funtion.
+
+3)Create a class having D.M height,width and length then calc the area and
+volume of the room using paramterized constructor for initializtion.
+Use copy constructor to calc area of 2 more similar room.
+
+4)Postage cost is Rs2 for 1st 15g and Rs1 for each additional 10g W.A.P to 
+calc the chart of  postage for a post read the weights of n packets and 
+display the amount of postage.
+
+5)Illustrate the diff between copy constructor and assignment operator.
